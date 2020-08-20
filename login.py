@@ -6,8 +6,8 @@ import json, re, requests
 import time
 
 # Provide username and password
-username = 'teslaavtoyuma'
-password = 'big12345'
+username = ''
+password = ''
 
 url = 'https://www.instagram.com/accounts/login/'
 
